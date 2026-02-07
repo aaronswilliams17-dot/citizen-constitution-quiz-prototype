@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which branch of government has the power to declare war?",
+    "choices": [
+      "The Executive Branch",
+      "The Judicial Branch",
+      "The Legislative Branch",
+      "The State Governments"
+    ],
+    "correctIndex": 2,
+    "explanation": "Article I, Section 8 of the U.S. Constitution grants Congress the power to declare war. This authority was intentionally placed in the legislative branch to prevent unilateral executive action.",
+    "source": "U.S. Constitution, Article I, Section 8"
+  },
+  {
+    "question": "What is the primary purpose of the First Amendment?",
+    "choices": [
+      "To establish federal courts",
+      "To protect individual freedoms",
+      "To regulate commerce",
+      "To define executive powers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The First Amendment protects core individual freedoms, including religion, speech, press, assembly, and petition. These protections limit government power over expression.",
+    "source": "U.S. Constitution, First Amendment"
+  }
+]
