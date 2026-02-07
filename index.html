@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Citizen Constitution – Quiz Prototype</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main class="app">
+    <h1>Citizen Constitution</h1>
+    <p class="tagline">
+      Daily nonpartisan quizzes based only on the U.S. Constitution and official rulings.
+    </p>
+
+    <section id="quiz-section">
+      <h2 id="question"></h2>
+
+      <div id="choices"></div>
+
+      <button id="submitBtn" disabled>Submit Answer</button>
+    </section>
+
+    <section id="result-section" class="hidden">
+      <h3 id="result"></h3>
+      <p id="explanation"></p>
+      <p class="source">
+        <strong>Source:</strong> <span id="source"></span>
+      </p>
+      <button id="nextBtn">New Quiz</button>
+    </section>
+
+    <footer>
+      <p>
+        Prototype uses simulated AI logic with source-locked content.<br />
+        Created as a rapid product exercise.
+      </p>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
