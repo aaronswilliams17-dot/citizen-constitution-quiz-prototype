@@ -1,5 +1,4 @@
-# citizen-constitution-quiz-prototype
-Rapid product prototype for a nonpartisan civic education app using source-locked, simulated AI logic.
+
 # Citizen Constitution – Quiz Prototype
 
 A rapid product prototype for a nonpartisan civic education app designed to help users understand the U.S. Constitution through short, daily quizzes with source-based explanations.
